@@ -1,0 +1,17 @@
+footer{
+    background-color:#000C27;
+    height: 100px;
+    width: 100%;
+}
+h4{
+    padding-top: 30px;
+    color:aliceblue;
+    position: relative;
+    left: 250px;
+}
+
+img{
+    position: relative;
+    left:850px;
+    padding-left: 20px;
+}

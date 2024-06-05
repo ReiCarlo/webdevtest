@@ -1,0 +1,221 @@
+#bgfpage {
+  position: absolute;
+  height: fit-content;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  z-index: -1;
+}
+
+.title,
+.navs {
+  color: #ffff;
+}
+
+#ai-job {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  color: #ffff;
+  font-style: normal;
+}
+#boost {
+  font-size: 4rem;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  color: #ffff;
+  font-style: normal;
+  font-weight: 500;
+}
+
+#btns {
+  background: #807e7e;
+  opacity: 60%;
+}
+
+#btns:hover {
+  background: #1baf22;
+  opacity: 100%;
+  border: none;
+}
+
+body > div.secondslide {
+  margin-top: 17.5rem;
+  z-index: -1;
+  position: absolute;
+}
+
+#side {
+  margin-top: 30rem;
+}
+
+#aitext,
+.ailonger {
+  color: #e2dede;
+}
+.bodyofexpect {
+  position: absolute;
+  margin-top: 6rem;
+  background: #000c27;
+  width: 100%;
+  height: 100vh;
+  z-index: -1;
+}
+
+#whatlearn {
+  margin-top: 14rem;
+}
+.checkz {
+  font-size: 2rem;
+  float: left;
+  color: #ffb606;
+}
+.fl {
+  padding-top: 10px;
+  text-align: left;
+  padding-left: 30px;
+  color: #f3eaea;
+}
+
+.hide {
+  opacity: 0%;
+}
+
+.titols {
+  color: #f3eaea;
+}
+
+.cardz {
+  background: #0f1537;
+}
+
+.bgulet {
+  position: absolute;
+  margin-top: 6rem;
+  background: #0f1537;
+  width: 100%;
+  height: 100rem;
+  z-index: -1;
+}
+
+.maincontz {
+  position: absolute;
+  top: 160rem;
+  left: 15rem;
+  width: 1000px;
+}
+
+body > div.maincontz > div > h2 {
+  color: #e2dede;
+  letter-spacing: 2px;
+  margin-left: 45%;
+}
+.contz {
+  width: 1000px;
+  margin-left: 20%;
+  height: 100px;
+  background: #999999;
+  border-radius: 30px;
+}
+.titlezz {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 2rem;
+  color: #e2dede;
+}
+.laman {
+  display: flex;
+  justify-content: space-around;
+  color: #e2dede;
+}
+
+body > div.maincontz > div > div.contz > div.laman > p:nth-child(3) {
+  padding-right: 100px;
+  font-weight: bold;
+}
+
+body > div.maincontz > div > div.contz > div.laman > p:nth-child(2) {
+  padding-left: 50px;
+  font-weight: bold;
+}
+body > div.maincontz > div > div.contz > div.laman > p:nth-child(1) {
+  padding-left: 50px;
+  font-weight: bold;
+}
+
+body > div.maincontz > div > div.contz > div.laman > p:nth-child(4) {
+  padding-right: 70px;
+  font-weight: bold;
+}
+.num,
+.numberz p {
+  display: flex;
+  justify-content: space-evenly;
+  color: #e2dede;
+}
+
+.numberz {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 15rem;
+  justify-content: space-evenly;
+}
+
+div > p.yellow {
+  color: #ffb606;
+  padding: 0 1rem;
+  font-size: 1.5rem;
+}
+
+.num {
+  padding-top: 2rem;
+}
+
+div > .titz {
+  font-size: 1.5rem;
+  float: right;
+}
+.parags {
+  text-align: justify;
+  width: fit-content;
+}
+
+.aipage{
+  padding-top: 105rem;
+ 
+}
+.ai{
+ 
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  z-index: -1;
+
+}
+
+
+.gitna {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFB606;
+  
+}
+.button-enroll {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  text-align: center;
+}
+div > h3, div > p{
+  color: #f3eaea;
+}

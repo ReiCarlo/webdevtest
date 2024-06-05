@@ -1,0 +1,9 @@
+#Page2{
+    position:absolute;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    z-index: -1;
+}

@@ -1,0 +1,41 @@
+
+.button-enroll {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    text-align: center;
+}
+img {
+    position: absolute;
+    height: 50vh;
+    width: 100%;
+    z-index: -1;
+}
+
+
+.ai {
+    color: white;
+}
+
+body {
+    font-family: 'Inter';font-size: 22px;
+}
+
+.gitna {
+    text-align: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFB606;
+    
+  }
+
+  .color {
+    color: white;
+  }
